@@ -2,7 +2,7 @@
 
  <p align="center">四川农业大学✨ 2023届前端er👨‍💻</p>
 
- <div style={{marginLeft:"200px"}}>
+ <div style="margin-left: 100px;">
 
   - 🔭 I’m currently working on 开思
   - 🌱 I’m currently learning nodejs

@@ -22,8 +22,6 @@
 <br/>
 
 <p align="center">
-  <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhy164&theme=highcontrast"/>
-</p>
-<p align="center">
- <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhy164&theme=highcontrast&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img align="center" width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhy164&theme=highcontrast"/>
+  <img align="center" width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhy164&theme=highcontrast&hide_border=true&layout=donut-vertical&langs_count=6"/>
 </p>

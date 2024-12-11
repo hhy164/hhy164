@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+，+welcome+to+hhy's+Github;Hope+you+have+a+great+day+~)](https://git.io/typing-svg)
 
 <!--
 **hhy164/hhy164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
